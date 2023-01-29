@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e50775d-5d9a-4764-9c9d-82b61aaa071b" name="Changes" comment="sorting_methods">
+    <list default="true" id="0e50775d-5d9a-4764-9c9d-82b61aaa071b" name="Changes" comment="insertion_sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SelectionSort">
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="sorting_methods" />
@@ -47,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <module name="sorting_methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
@@ -69,11 +77,19 @@
       <option name="project" value="LOCAL" />
       <updated>1674985763764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="insertion_sort">
+      <created>1674993537139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674993537139</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sorting_methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting_methods" />
+    <MESSAGE value="insertion_sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="insertion_sort" />
   </component>
 </project>
